@@ -1,2 +1,2 @@
 # Git-pratice
-Git-pratice based on git command: merge, rebase
+Git-pratice with git commands: merge, rebase
